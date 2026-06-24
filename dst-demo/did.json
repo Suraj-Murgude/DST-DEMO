@@ -1,0 +1,23 @@
+{
+  "assertionMethod": [
+    "did:web:Suraj-Murgude.github.io:DID:dst-demo"
+  ],
+  "service": [],
+  "id": "did:web:mijan32.github.io:DID:mec-new",
+  "verificationMethod": [
+    {
+      "publicKeyMultibase": "z6MkjURTrhy3heks5DRT9Dyb9jnZBmfTH3LNstyBw7rH3wL9",
+      "controller": "did:web:Suraj-Murgude.github.io:DID:dst-demo",
+      "id": "did:web:mijan32.github.io:DID:mec-new#oM4nQh0CJel0qMpoKhkSyzpgsq-gEj3DOPUzaU9m0lY",
+      "type": "Ed25519VerificationKey2020",
+      "@context": "https://w3id.org/security/suites/ed25519-2020/v1"
+    }
+  ],
+  "@context": [
+    "https://www.w3.org/ns/did/v1"
+  ],
+  "alsoKnownAs": [],
+  "authentication": [
+    "did:web:Suraj-Murgude.github.io:DID:dst-demo"
+  ]
+}
